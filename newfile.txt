@@ -4,3 +4,10 @@ Hello World! Hahahahaha using Notepad not Vim
 
 
 Now edit on github blah blah blah
+
+
+
+
+add: add file to trace, git will only look at traced file
+commit: commit new changes
+push: upload new commits to origin
